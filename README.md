@@ -68,7 +68,7 @@ This model combines both the generator and discriminator, calculates losses and 
 
 Gist Link : [GAN Architecture](https://gist.github.com/Shivam-316/07593d677dbceaff630a5928e7e22d95 "GAN Architecture")
 
-### Some Results
+### Results
 
 ------------
 
